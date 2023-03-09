@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitQuestion2685.Tests", "XUnitQuestion2685.Tests\XUnitQuestion2685.Tests.csproj", "{9664BBF3-FD6C-4EAF-982D-05707397F2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitQuestion2685.Api", "XUnitQuestion2685.Api\XUnitQuestion2685.Api.csproj", "{B30EF9EB-173A-4F96-A3E3-CE27BDB2863F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9664BBF3-FD6C-4EAF-982D-05707397F2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9664BBF3-FD6C-4EAF-982D-05707397F2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9664BBF3-FD6C-4EAF-982D-05707397F2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9664BBF3-FD6C-4EAF-982D-05707397F2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30EF9EB-173A-4F96-A3E3-CE27BDB2863F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30EF9EB-173A-4F96-A3E3-CE27BDB2863F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30EF9EB-173A-4F96-A3E3-CE27BDB2863F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30EF9EB-173A-4F96-A3E3-CE27BDB2863F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

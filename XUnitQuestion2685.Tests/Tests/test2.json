@@ -1,0 +1,7 @@
+﻿{
+  "query": "select table",
+  "expected": ["a", "b", "d"]
+}
+
+
+
